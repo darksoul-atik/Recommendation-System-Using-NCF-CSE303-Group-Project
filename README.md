@@ -1,5 +1,9 @@
 # 🎵 Spotify Recommendation System  
 ## CSE303 Group Project | Recommendation System Using Neural Collaborative Filtering (NCF)
+# 👨‍🏫 Supervised By  
+**Dr. Mohammad Rezwanur Haq**  
+*Associate Professor*  
+[East West University, Dhaka]
 
 ---
 
